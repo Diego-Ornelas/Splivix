@@ -4,19 +4,19 @@ const Team = () => {
   const team = [
     {
       name: "Diego Ornelas",
-      title: "Full-time AI Engineer",
+      title: "Full-Time AI Engineer",
       education: [
-        "Bachelor's in Cyber Security",
-        "Bachelor's in Information Systems"
+        "Bachelor of Science in Cyber Security",
+        "Bachelor of Science in Information Systems"
       ],
       image: "/lovable-uploads/ac789c92-918c-4f77-9539-5696b5746d9f.png",
       linkedinUrl: "https://www.linkedin.com/in/d-ornelas/"
     },
     {
       name: "Enrique Ornelas",
-      title: "Full-time Software Engineer",
+      title: "Full-Time Software Developer",
       education: [
-        "Bachelor's in Computer Science",
+        "Bachelor of Science in Computer Science",
         "Minor in Cyber Security"
       ],
       image: "/lovable-uploads/e962c3ad-2c23-4bab-a6b6-ce46e5fea938.png",
@@ -24,10 +24,10 @@ const Team = () => {
     },
     {
       name: "Andres Marín",
-      title: "Full-time AI Researcher",
+      title: "Full-Time AI Researcher",
       education: [
-        "Master's in AI",
-        "Master's in Quantum Computing"
+        "Master of Science in Artificial Intelligence",
+        "Master of Science in Quantum Computing"
       ],
       image: "/lovable-uploads/29a0bb08-e168-4f9e-9f1c-74bd0b910d31.png",
       linkedinUrl: "https://www.linkedin.com/in/andresmez2199/"
@@ -45,13 +45,13 @@ const Team = () => {
       <div className="container px-4 mx-auto">
         <div className="text-center max-w-3xl mx-auto mb-16">
           <div className="inline-flex items-center px-3 py-1.5 mb-3 text-xs font-medium rounded-full bg-secondary text-secondary-foreground">
-            Our Team
+            Professional Staff
           </div>
           <h2 className="text-3xl md:text-4xl font-bold mb-6 text-balance">
-            Meet the <span className="gradient-text">Experts</span> Behind Splivix
+            Introducing the <span className="gradient-text">Distinguished Professionals</span> of Splivix
           </h2>
           <p className="text-foreground/80 text-lg">
-            Our team of specialists brings together years of experience in AI, software engineering, and research to deliver cutting-edge solutions.
+            Our distinguished team of specialists combines extensive expertise in artificial intelligence, software engineering, and advanced research methodologies to provide sophisticated, state-of-the-art solutions.
           </p>
         </div>
         
